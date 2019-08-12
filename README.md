@@ -6,11 +6,11 @@
 >😃聚合个人开发者和组织开发的 Typecho 主题模板，方便Typecho程序使用者更加方便的找到自己所喜好的主题模板。
 
 ## 目录
-* [TimeLogger](https://github.com/RealZhangHan/Typecho-Themes/TimeLogger/)
+* [TimeLogger](https://github.com/RealZhangHan/Typecho-Themes/TimeLogger)
     * `一款简约简单轻小好看的主题`
-* [Besking](https://gitee.com/RealZhangHan/Typecho-Themes/Besking/)
+* [Besking](https://gitee.com/RealZhangHan/Typecho-Themes/Besking)
     * `一款比较简单明了的大主题`
-* [Cactus](https://github.com/RealZhangHan/Typecho-Themes/Cactus/)
+* [Cactus](https://github.com/RealZhangHan/Typecho-Themes/Cactus)
     * `🌵cactus一个响应式干净和简洁优雅的主题`
 * [Meaword](https://github.com/Meayair/Typecho-Theme-MeaWord)
     * `一个极简的用于文字摘录的主题`
