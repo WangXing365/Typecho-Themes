@@ -1,4 +1,5 @@
 <p align="center">
-<img src="https://avatars2.githubusercontent.com/u/2030842?s=200&v=4" alt="Typecho">
+<img src="https://ws1.sinaimg.cn/large/006Xmmmgly1g5x4ijgu7tj305k05k744.jpg
+" alt="Typecho">
 </p>
-<h1 align="center">Typecho</h1>
+<h1 align="center">Typecho-Themes</h1>
