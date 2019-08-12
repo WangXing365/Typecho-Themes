@@ -3,6 +3,6 @@
 </p>
 <h1 align="center">Typecho-Themes</h1>
 
->Typecho 主题模板汇总 —— 聚合个人开发者和组织开发的 Typecho 主题模板，方便Typecho程序使用者更加方便的找到自己所喜好的主题模板。
+>😃聚合个人开发者和组织开发的 Typecho 主题模板，方便Typecho程序使用者更加方便的找到自己所喜好的主题模板。
 
-##目录
+## 目录
