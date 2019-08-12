@@ -12,7 +12,7 @@
     * `一款比较简单明了的大主题`
 * [Cactus](https://github.com/RealZhangHan/Typecho-Themes/tree/master/Cactus)
     * `🌵cactus一个响应式干净和简洁优雅的主题`
-* [Meaword](https://github.com/Meayair/Typecho-Theme-MeaWord)
+* [Meaword](https://github.com/RealZhangHan/Typecho-Themes/tree/master/MeaWord)
     * `一个极简的用于文字摘录的主题`
 * [G](https://github.com/youranreus/G)
     * `这是一个偏向二次元的简洁风主题。追求阅读的舒适，所以字比较大`
