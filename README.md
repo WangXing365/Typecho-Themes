@@ -10,7 +10,7 @@
     * `一款简约简单轻小好看的主题`
 * [Besking](https://gitee.com/RealZhangHan/Typecho-Themes/tree/master/Besking)
     * `一款比较简单明了的大主题`
-* [Cactus](https://github.com/RealZhangHan/Typecho-Themes/Cactus)
+* [Cactus](https://github.com/RealZhangHan/Typecho-Themes/tree/master/Cactus)
     * `🌵cactus一个响应式干净和简洁优雅的主题`
 * [Meaword](https://github.com/Meayair/Typecho-Theme-MeaWord)
     * `一个极简的用于文字摘录的主题`
