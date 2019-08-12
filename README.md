@@ -16,7 +16,7 @@
     * `一个极简的用于文字摘录的主题`
 * [G](https://github.com/RealZhangHan/Typecho-Themes/tree/master/G)
     * `这是一个偏向二次元的简洁风主题。追求阅读的舒适，所以字比较大`
-* [Miracles](https://github.com/BigCoke233/miracles)
+* [Miracles](https://github.com/RealZhangHan/Typecho-Themes/tree/master/Mriacles)
     * `🧀一个还不错的清爽 Typecho 主题 `
 * [Adams](https://github.com/BigCoke233/adams)
     * `🍢一款简洁而又不失优雅的 Typecho 主题`
