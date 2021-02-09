@@ -1,6 +1,8 @@
 <h1 align="center">Typecho</h1>
 
 >😃聚合个人开发者和组织开发的 Typecho 主题模板，方便Typecho程序使用者更加方便的找到自己所喜好的主题模板。
+>
+>😃以下主题内容来源网络收集，若有侵权联系：📫：guest.google@qq.com 删除
 
 ## 目录
 
