@@ -7,13 +7,13 @@
 |                名称                |                             简介                             | 下载链接 | 备注 |
 | :--------------------------------: | :----------------------------------------------------------: | :------: | :--: |
 | [TimeLogger](TimeLogger/README.md) |                 `一款简约简单轻小好看的主题`                 |          |      |
-|         [Besking](Besking)         |                  `一款比较简单明了的大主题`                  |          |      |
-|          [Cactus](Cactus)          |           `🌵cactus一个响应式干净和简洁优雅的主题`            |          |      |
-|         [Meaword](MeaWord)         |                `一个极简的用于文字摘录的主题`                |          |      |
-|               [G](G)               | `这是一个偏向二次元的简洁风主题。追求阅读的舒适，所以字比较大` |          |      |
-|        [Miracles](Mriacles)        |              `🧀一个还不错的清爽 Typecho 主题 `               |          |      |
-|           [Adams](adams)           |            `🍢一款简洁而又不失优雅的 Typecho 主题`            |          |      |
-|            [VOID](VOID)            |                   `🐒 猴子打字机原理的产物`                   |          |      |
+|    [Besking](Besking/README.md)    |                  `一款比较简单明了的大主题`                  |          |      |
+|     [Cactus](Cactus/README.md)     |           `🌵cactus一个响应式干净和简洁优雅的主题`            |          |      |
+|    [Meaword](MeaWord/README.md)    |                `一个极简的用于文字摘录的主题`                |          |      |
+|          [G](G/README.md)          | `这是一个偏向二次元的简洁风主题。追求阅读的舒适，所以字比较大` |          |      |
+|   [Miracles](Mriacles/README.md)   |              `🧀一个还不错的清爽 Typecho 主题 `               |          |      |
+|      [Adams](adams/README.md)      |            `🍢一款简洁而又不失优雅的 Typecho 主题`            |          |      |
+|       [VOID](VOID/README.md)       |                   `🐒 猴子打字机原理的产物`                   |          |      |
 |                                    |                                                              |          |      |
 |                                    |                                                              |          |      |
 |                                    |                                                              |          |      |
