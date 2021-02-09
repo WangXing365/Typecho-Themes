@@ -5,19 +5,19 @@
 ## 目录
 * [TimeLogger](/TimeLogger)
     * `一款简约简单轻小好看的主题`
-* [Besking](https://gitee.com/RealZhangHan/Typecho-Themes/tree/master/Besking)
+* [Besking](/Besking)
     * `一款比较简单明了的大主题`
-* [Cactus](https://github.com/RealZhangHan/Typecho-Themes/tree/master/Cactus)
+* [Cactus](/Cactus)
     * `🌵cactus一个响应式干净和简洁优雅的主题`
-* [Meaword](https://github.com/RealZhangHan/Typecho-Themes/tree/master/MeaWord)
+* [Meaword](/MeaWord)
     * `一个极简的用于文字摘录的主题`
-* [G](https://github.com/RealZhangHan/Typecho-Themes/tree/master/G)
+* [G](/G)
     * `这是一个偏向二次元的简洁风主题。追求阅读的舒适，所以字比较大`
-* [Miracles](https://github.com/RealZhangHan/Typecho-Themes/tree/master/Mriacles)
+* [Miracles](/Mriacles)
     * `🧀一个还不错的清爽 Typecho 主题 `
-* [Adams](https://github.com/BigCoke233/adams)
+* [Adams](/adams)
     * `🍢一款简洁而又不失优雅的 Typecho 主题`
-* [VOID](https://github.com/AlanDecode/Typecho-Theme-VOID)
+* [VOID](/Typecho-Theme-VOID)
     * `🐒 猴子打字机原理的产物`
 * []()
     * ``
